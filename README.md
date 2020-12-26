@@ -17,5 +17,5 @@ This reposity is for coursera capstone project purpose. There are two projects:
        5. Results and Discussion 
        6. Conclusion
        
-**Document** consist of Final Report and Final Presentation
+**Documents** consist of Final Report and Final Presentation
 
